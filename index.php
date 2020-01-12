@@ -91,7 +91,7 @@ cart();
        
       </div>
       <div class="footer" style="text-align: center; line-height: 100px;">
-        <h1 >Sandhya &copy</h1>
+        <h1 >Deepti &copy</h1>
       </div>
     </div>
   </body>
